@@ -1,5 +1,5 @@
 {
-  "name": "react-native-version-number",
+  "name": "@pandarose/react-native-version-number",
   "version": "0.3.6",
   "description": "Access app version inside React Native",
   "main": "index.js",
